@@ -7,7 +7,7 @@ from time import sleep
 # API base URLs and your API key
 DOCUMENTS_URL = "https://api.regulations.gov/v4/documents"
 COMMENTS_URL = "https://api.regulations.gov/v4/comments"
-API_KEY = "jP1EPGX4oKaA7AfGY4etjE7gxbwTu3iItYGAx0rg"
+API_KEY = "YOUR REGULATIONS.GOV API KEY HERE"
 
 def extract_docket_id_or_document_id(link):
     """
